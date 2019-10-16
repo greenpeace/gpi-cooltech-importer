@@ -1,0 +1,17 @@
+{
+  "name": "greenpeace/gpi-cooltech-importer",
+  "description": "This repository contains the WordPress plugin that imports the excel data of the cooltechnologies database.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Greenpeace International",
+      "email": "planet4-group@greenpeace.org"
+    }
+  ],
+  "require-dev": {
+  },
+  "require": {},
+  "scripts": {
+  }
+}
